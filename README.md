@@ -19,6 +19,7 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="sql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="git" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </div><br/>
 
 
